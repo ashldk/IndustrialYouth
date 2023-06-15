@@ -2,7 +2,6 @@
 <h3 align="center">A beginner Ukrainian web developer based in Valais, Switzerland.</h3>
 
 - 🌱 I’m currently learning **PHP (Laravel) and SQL for my internship as a full-stack developer.**
-- 🌱 I’m currently learning **PHP (Laravel) and SQL for my internship as a full-stack developer.**
 
 - ⚡ Fun fact **I love learning languages, listening to heavy music, and playing video games.**
 

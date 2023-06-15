@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
-<h3 align="center">A beginner Ukrainian web developer based in Switzerland.</h3>
+<h3 align="center">A beginner Ukrainian web developer based in Valais, Switzerland.</h3>
 
 - 🌱 I’m currently learning **PHP (Laravel) and SQL for my internship as a full-stack developer.**
 

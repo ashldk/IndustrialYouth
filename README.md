@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP (Laravel) and SQL for my internship as a full-stack developer.**
 
-- ⚡ Fun fact **I love learning languages, listening to heavy music, and playing video games.**
+- ❤️ I love **learning languages, listening to heavy music, and playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
